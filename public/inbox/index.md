@@ -1,6 +1,6 @@
 # Inbox
 
 
-[test](test)
+[test](/test)
 
 
