@@ -16,7 +16,7 @@ theme = "LoveIt"
 #disablePathToLower = true
 #sourceRelativeLinks=true
 # canonifyURLs = false
-sourceRelativeLinksEval = true
+# sourceRelativeLinksEval = true
 
 [params]
   # LoveIt 主题版本
