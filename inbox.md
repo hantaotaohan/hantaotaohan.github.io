@@ -2,5 +2,5 @@
 
 
 aliases: [/inbox/]
-[test](./test)
+[test](/test)
 
