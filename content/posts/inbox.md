@@ -5,5 +5,5 @@ draft: false
 ---
 
 [test](/test)
-[asdf](/asdf)
+[asdf](asdf)
 
