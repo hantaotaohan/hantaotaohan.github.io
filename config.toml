@@ -12,9 +12,9 @@ title = "TaoTao's Wiki"
 theme = "LoveIt"
 
 #relativeURLs = true
-sourceRelativeLinksEval=true
-#uglyurls = true
-disablePathToLower = true
+# sourceRelativeLinksEval=true
+uglyurls = true
+disablePathToLower = false
 
 [params]
   # LoveIt 主题版本
