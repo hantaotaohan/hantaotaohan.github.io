@@ -38,14 +38,15 @@ jobs:
       with: 
         node-version: '14.x'
 
-    - name: Install automic-algolia
+    - name: Install and Run automic-algolia
       run: | 
-        npm install atomic-algolia
+        npm install atomic-algolia --save
+        npm install
         npm run algolia
       env:
         ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
         ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
         ALGOLIA_INDEX_NAME: "index"
-        ALGOLIA_INDEX_FILE: "public/index.json"
+        ALGOLIA_INDEX_FILE: "./public/index.json"
         
 
