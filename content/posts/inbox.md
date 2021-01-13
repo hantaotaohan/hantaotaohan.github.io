@@ -1,7 +1,7 @@
 ---
 title: "inbox"
 draft: false
-tags: [1,2,3]
+tags: [1]
 categories: []
 ---
 
@@ -16,8 +16,6 @@ categories: []
 
 
 
+
 # Generated Tags
 
-## ]
-
-- []](inbox#])
