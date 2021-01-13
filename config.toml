@@ -541,7 +541,7 @@ theme = "LoveIt"
 # Permalinks 配置
 [Permalinks]
   # posts = ":year/:month/:filename"
-  / = ":filename"
+  "/" = ":filename"
 
 # 隐私信息配置
 [privacy]
