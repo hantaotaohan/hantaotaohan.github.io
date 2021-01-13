@@ -8,5 +8,5 @@ aliases: [/inbox/test/]
 
 # Backlinks
 
-- ["Inbox"](inbox)
+- ["Inbox"](/inbox)
 
