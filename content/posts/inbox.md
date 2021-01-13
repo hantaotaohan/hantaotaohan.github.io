@@ -1,8 +1,8 @@
 ---
 title: "inbox"
 draft: false
-tags: [1,3]
 categories: []
+tags: [1,3]
 ---
 
 [hantao](/hantao)
