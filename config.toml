@@ -15,7 +15,7 @@ relativeURLs = false
 #sourceRelativeLinksEval=true
 #disablePathToLower = true
 #sourceRelativeLinks=true
-#canonifyURLs = true
+canonifyURLs = true
 sourceRelativeLinksEval = true
 
 [params]
