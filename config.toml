@@ -16,6 +16,7 @@ sourceRelativeLinksEval=true
 #disablePathToLower = true
 #sourceRelativeLinks=true
 canonifyURLs = true
+uglyurls = true
 # sourceRelativeLinksEval = true
 
 [params]
