@@ -12,6 +12,7 @@ title = "TaoTao's Wiki"
 theme = "LoveIt"
 
 # relativeURLs = true
+sourceRelativeLinksEval=true
 
 [params]
   # LoveIt 主题版本
