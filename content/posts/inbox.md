@@ -1,8 +1,8 @@
 ---
 title: "inbox"
 draft: false
-tags: [1,2]
 categories: []
+tags: [1,2]
 ---
 
 [hantao](/hantao)
@@ -23,3 +23,9 @@ categories: []
 
 
 
+
+# Generated Tags
+
+## [1,2]
+
+- [[1,2]](inbox#[1,2])
