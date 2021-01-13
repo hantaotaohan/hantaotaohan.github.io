@@ -2,7 +2,7 @@
 title: "hantao"
 date: 2020-01-13
 draft: false
-url: /:title
+url: ":Title/"
 ---
 test
 123
