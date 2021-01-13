@@ -4,7 +4,8 @@ asdfsaf
 
 
 
+
 # Backlinks
 
-- ["Inbox"](inbox)
+- ["Inbox"](./inbox)
 
