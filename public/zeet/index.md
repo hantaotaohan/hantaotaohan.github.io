@@ -10,6 +10,10 @@ Backlink: ["inbox"](/inbox)
 
 # Generated Tags
 
+## []
+
+- [[]](inbox#[])
+
 ## 标签1
 
 - [标签1](zeet#标签1)
