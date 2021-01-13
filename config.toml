@@ -539,10 +539,10 @@ theme = "LoveIt"
   priority = 0.5
 
 # Permalinks 配置
-[Permalinks]
+[RelPermalink]
   # posts = ":year/:month/:filename"
   # posts = ":filename"
-  posts = ":sectione"
+  posts = ":filename"
 
 # 隐私信息配置
 [privacy]
