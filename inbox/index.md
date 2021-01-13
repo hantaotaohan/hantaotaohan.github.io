@@ -1,5 +1,6 @@
 # Inbox
 
 
-[test](test)
+aliases: [/inbox/]
+[test](./test)
 
