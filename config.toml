@@ -11,11 +11,12 @@ title = "TaoTao's Wiki"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
 
-relativeURLs = true
-sourceRelativeLinksEval=true
-disablePathToLower = true
+#relativeURLs = true
+#sourceRelativeLinksEval=true
+#disablePathToLower = true
 #sourceRelativeLinks=true
-canonifyURLs = true
+#canonifyURLs = true
+sourceRelativeLinksEval = true
 
 [params]
   # LoveIt 主题版本
