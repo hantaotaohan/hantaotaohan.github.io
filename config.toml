@@ -13,7 +13,7 @@ theme = "LoveIt"
 
 #relativeURLs = true
 #sourceRelativeLinksEval=true
-uglyurls = false
+uglyurls = true
 disablePathToLower = true
 
 [params]
