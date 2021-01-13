@@ -12,8 +12,8 @@ title = "TaoTao's Wiki"
 theme = "LoveIt"
 
 # relativeURLs = true
-sourceRelativeLinksEval=true
-# disablePathToLower = true
+# sourceRelativeLinksEval=true
+disablePathToLower = true
 sourceRelativeLinks=true
 
 [params]
