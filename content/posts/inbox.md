@@ -1,7 +1,7 @@
 ---
 title: "inbox"
 draft: false
-tags: [1]
+tags: [1,2]
 categories: []
 ---
 
