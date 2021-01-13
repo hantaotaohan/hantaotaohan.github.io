@@ -547,7 +547,7 @@ sourceRelativeLinksEval = true
 [Permalinks]
   # posts = ":year/:month/:filename"
   # posts = ":filename"
-  posts = ":filename"
+  posts = "/inbox/:filename"
 
 # 隐私信息配置
 [privacy]
