@@ -2,6 +2,7 @@
 
 asdfsaf
 
+aliases: [/inbox/test/]
 
 
 
