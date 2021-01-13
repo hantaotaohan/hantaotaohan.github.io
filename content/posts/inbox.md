@@ -5,8 +5,4 @@ draft: false
 url: "inbox"
 ---
 
-[hantao](hantao)
-[123](123.md)
-[321](321)
-[ite](ite)
-
+[test](test)
