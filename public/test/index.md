@@ -1,12 +1,7 @@
 # test
 
-asdfsaf
 
-aliases: [/inbox/test/]
+---
 
-
-
-# Backlinks
-
-- ["Inbox"](/inbox)
+# Backlink: [Inbox](/inbox)
 
