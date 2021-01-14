@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/home/taotao/blog/public/1asdf/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/444/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/books/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
