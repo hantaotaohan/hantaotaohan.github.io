@@ -10,5 +10,4 @@ tags: []
 
 [hantao](/hantao)
 
-asdf
 
