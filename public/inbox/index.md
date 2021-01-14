@@ -6,5 +6,3 @@
 [hantao](/hantao)
 
 
-[asdf](\/asdf)
-
