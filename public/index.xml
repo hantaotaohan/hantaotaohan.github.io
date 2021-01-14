@@ -3,7 +3,8 @@
         <title>TaoTao&#39;s Wiki</title>
         <link>/home/taotao/blog/public/</link>
         <description>TaoTao&#39;s Wiki</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hantaotaohan@gmail.com (TaoTao)</managingEditor>
+            <webMaster>hantaotaohan@gmail.com (TaoTao)</webMaster>
             <atom:link href="/home/taotao/blog/public/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
