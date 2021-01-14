@@ -5,8 +5,8 @@
             <loc>/home/taotao/blog/public/%E6%9B%BE%E5%9B%BD%E8%97%A9/</loc><priority>0</priority></url><url>
             <loc>/home/taotao/blog/public/books/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/home/taotao/blog/public/han/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/inbox/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/home/taotao/blog/public/test/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/testa/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
