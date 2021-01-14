@@ -10,5 +10,5 @@ tags: []
 
 [hantao](/hantao)
 
-[asdf/asdf](asdf/asdf)
-[/asdfs](/asdfs)
+[asd](asd) asdf
+[as f](as f)
