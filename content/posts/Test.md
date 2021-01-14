@@ -1,9 +1,9 @@
 ---
-title: inbox
+title: test
 date: 2021-01-14 13:48
 draft: false
 categories: []
 tags: []
 ---
 
-[test](/test)
+asdf
