@@ -5,6 +5,6 @@
 
 ---
 
-# Backlink: [Inbox](inboxinbox)
+# Backlink: [Inbox](/inbox)
 
 
