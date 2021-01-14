@@ -31,7 +31,7 @@
                     {{- with .OutputFormats.Get "markdown" -}}
                         <span>
                             <!-- <a class="link-to-markdown" href="{{ .RelPermalink }}" target="_blank"> -->
-                            <a class="link-to-markdown" href="{{ .Permalink }}" target="_blank">
+                            <a class="link-to-markdown" href="https://github.com/hantaotaohan/hantaotaohan.github.io/edit/master/content/posts{{ strings.TrimSuffix "/" ($.RelPermalink) }}.md" target="_blank">
                                 {{- T "readMarkdown" -}}
                             </a>
                         </span>
