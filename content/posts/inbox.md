@@ -7,5 +7,3 @@ tags: []
 ---
 
 [Books](/books)
-
-[asdf](/asdf)
