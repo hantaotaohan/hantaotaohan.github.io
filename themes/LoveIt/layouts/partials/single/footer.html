@@ -30,7 +30,8 @@
                 {{- if $params.linktomarkdown -}}
                     {{- with .OutputFormats.Get "markdown" -}}
                         <span>
-                            <a class="link-to-markdown" href="{{ .RelPermalink }}" target="_blank">
+                            <!-- <a class="link-to-markdown" href="{{ .RelPermalink }}" target="_blank"> -->
+                            <a class="link-to-markdown" href="{{ .Permalink }}" target="_blank">
                                 {{- T "readMarkdown" -}}
                             </a>
                         </span>
