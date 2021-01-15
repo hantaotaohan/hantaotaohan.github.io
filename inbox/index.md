@@ -1,5 +1,5 @@
 # Inbox
 
 
-[Books](/books)
+[Books](books)
 
