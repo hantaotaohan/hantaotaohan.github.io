@@ -1,4 +1,4 @@
-# Inbox
+# inbox
 
 
 [Books](books)
