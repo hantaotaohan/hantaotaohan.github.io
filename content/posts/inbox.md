@@ -1,5 +1,5 @@
 ---
-title: Inbox
+title: inbox
 date: 2021-01-14 09:50
 draft: false
 categories: []
