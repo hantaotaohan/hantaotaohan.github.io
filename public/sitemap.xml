@@ -2,14 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/home/taotao/blog/public/aaa/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/home/taotao/blog/public/444/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/books/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/home/taotao/blog/public/hh/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/inbox/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/home/taotao/blog/public/333/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/home/taotao/blog/public/test1/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/home/taotao/blog/public/%E6%9B%BE%E5%9B%BD%E8%97%A9/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
