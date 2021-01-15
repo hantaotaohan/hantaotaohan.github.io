@@ -6,4 +6,4 @@ categories: []
 tags: []
 ---
 
-[Books](/books)
+[Books](books)
