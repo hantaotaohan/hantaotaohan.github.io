@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>阅读 - 标签 - TaoTao&#39;s Wiki</title>
+        <link>/home/taotao/blog/public/tags/%E9%98%85%E8%AF%BB/</link>
+        <description>阅读 - 标签 - TaoTao&#39;s Wiki</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hantaotaohan@gmail.com (TaoTao)</managingEditor>
+            <webMaster>hantaotaohan@gmail.com (TaoTao)</webMaster><atom:link href="/home/taotao/blog/public/tags/%E9%98%85%E8%AF%BB/" rel="self" type="application/rss+xml" /><item>
+    <title>books</title>
+    <link>/home/taotao/blog/public/books/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/home/taotao/blog/public/books/</guid>
+    <description><![CDATA[Books 序号 书名 作者 出版社 ASIN 1 明朝那些事儿 当年明月 浙江人民出版社 B00CIHXOOM 2 曾国藩 唐浩明 河南文艺出版社 B00SUTCHCW 3 非暴力沟通 马歇尔.卢森堡 华夏出版社 B01N4P9MT5 4 了不起的盖]]></description>
+</item><item>
+    <title>毛泽东选集</title>
+    <link>/home/taotao/blog/public/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/home/taotao/blog/public/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/</guid>
+    <description><![CDATA[毛泽东选集 第一卷 第一次国内革命战争时期 中国社会各阶级的分析 Backlinks books]]></description>
+</item></channel>
+</rss>
