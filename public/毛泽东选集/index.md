@@ -1,10 +1,5 @@
----
-title: 毛泽东选集
-date: 2021-01-20T15:44:00+08:00
-draft: false
-categories: [书籍]
-tags: [阅读,书籍]
----
+# 毛泽东选集
+
 
 - 毛泽东选集
 	- 第一卷
@@ -14,3 +9,4 @@ tags: [阅读,书籍]
 # Backlinks
 
 - [books](books)
+
