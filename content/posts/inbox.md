@@ -7,6 +7,3 @@ tags: []
 ---
 
 [Books](books)
-
-
-
